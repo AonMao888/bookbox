@@ -3,5 +3,5 @@
 {"title":"တွတ်ပီ","des":"No Description","thumb":"https://bit.ly/3oMAb8R","link":"https://drive.google.com/file/d/1Y-52PNektQEKZeEDlyDUifAnAU0RXtCn/preview"},
 {"title":"Wifi connection hacking","des":"No Description","thumb":"https://shorturl.at/flAST","link":"https://drive.google.com/file/d/1BgkAm62sytDDkBiOD5zcFyzQ8vCj98i5/preview"},
 {"title":"ပန်းပွင့်ခရေ","des":"No Description","thumb":"https://bit.ly/3oMccGH","link":"https://drive.google.com/file/d/1STYfKXNKD3QWbhhZIn74YsCpQuA7N5HQ/preview"},
-{"title":"ပန်းပွင့်ခရေ","des":"No Description","thumb":"https://bit.ly/3oMccGH","link":"https://drive.google.com/file/d/1X8ALcU9m808vS1ktvhYqEVNWMOZCt7XJ/preview"}
+{"title":"တားရော့ဟောနည်း","des":"Author : မင်းသိင်္ခ","thumb":"https://shorturl.at/nAGLR","link":"https://drive.google.com/file/d/1X8ALcU9m808vS1ktvhYqEVNWMOZCt7XJ/preview"}
 ]
