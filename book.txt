@@ -7,5 +7,5 @@
 {"title":"သံစုန်းကြွေတဲ့ည","des":"Author : နီကိုရဲ","thumb":"https://1.bp.blogspot.com/-O0kTa4Plp0Y/XcLEQhLbkEI/AAAAAAAADME/NQkfPL9pkuQEKf3YMp3aGqH07Ns7V2EuwCLcBGAsYHQ/s1600/Capture.JPG","link":"https://drive.google.com/file/d/1PjFKBlMfj6Pfle_5clyywes4JAnJTXqq/preview"},
 {"title":"Microsoft Power Point","des":"No description","thumb":"https://3.bp.blogspot.com/-H94LIRbdVmI/W37fa6JpcvI/AAAAAAAAC3Y/Xt0n1DPVYMgkpYynEgcuexiK7RiR4R1xgCLcBGAs/s320/ShowCover.jpg","link":"https://drive.google.com/file/d/1NHiHUrkY-Qf3QkJCwrMKHdOnTy7H0287/preview"},
 {"title":"PhotoShop Note-2","des":"Author : Ayar Myay၊ မင်းကိုထွေး၊ ဇွဲသူရိန်၊ ကိုမျိုး၊ Poutsi","thumb":"https://2.bp.blogspot.com/-Q8IyO5MZj7g/W36o1p_AuxI/AAAAAAAAC1E/adZt-XwTKc4Bt765nOOSN8ADUe9RG2qJwCLcBGAs/s1600/1520412819_photoshop_wqebdesign_story.jpg","link":"https://drive.google.com/file/d/12PhAPcRyCBaUFxVFFcnEoyzBtNBND2td/preview"},
-{"title":"တားရော့ဟောနည်း","des":"Author : မင်းသိင်္ခ","thumb":"https://shorturl.at/nAGLR","link":"https://drive.google.com/file/d/1X8ALcU9m808vS1ktvhYqEVNWMOZCt7XJ/preview"}
+{"title":"နန်းဟာဗီး","des":"No description","thumb":"https://1.bp.blogspot.com/-2zjoKLS9Cis/Xd6FEAj2q9I/AAAAAAAAAac/m1Yy0eV2KCEtBPWwHDXyPVaC5VekpkE8QCLcBGAsYHQ/s1600/5.jpg","link":"https://drive.google.com/file/d/12hJpUIMngzbHDKuuDxRSL_EBVbq_s2nM/preview"}
 ]
